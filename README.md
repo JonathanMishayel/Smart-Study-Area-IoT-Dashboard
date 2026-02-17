@@ -25,44 +25,45 @@ Interactive Visual Analytics
 
 #### 📡 IoT Layer
 
-ESP32 microcontroller
+- ESP32 microcontroller
 
-DHT22 temperature & humidity sensor
+- DHT22 temperature & humidity sensor
 
-WiFi connectivity
+- WiFi connectivity
 
-Real-time MQTT publishing
+- Real-time MQTT publishing
 
-Auto-reconnection handling
+- Auto-reconnection handling
 
 #### 📊 Dashboard Layer (Dash + Plotly)
 
-Live-updating gauges (Temperature & Humidity)
+- Live-updating gauges (Temperature & Humidity)
 
-Real-time time-series line charts
+- Real-time time-series line charts
 
-Correlation heatmap analysis
+- Correlation heatmap analysis
 
-Statistical summary (min, max, average)
+- Statistical summary (min, max, average)
 
-Professional UI using Dash Bootstrap Components
+- Professional UI using Dash Bootstrap Components
 
-MQTT connection status indicator
+- MQTT connection status indicator
 
-Automatic data buffering
+- Automatic data buffering
+
 ----
 ### 🛠 Technologies Used
 ##### Hardware
 
-ESP32
+- ESP32
 
-DHT22 Sensor
+- DHT22 Sensor
 
 ##### Communication
 
-MQTT Protocol
+- MQTT Protocol
 
-test.mosquitto.org Public Broker
+- test.mosquitto.org Public Broker
 
 ##### Software
 
