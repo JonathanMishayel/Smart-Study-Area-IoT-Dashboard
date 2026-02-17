@@ -23,7 +23,7 @@ Interactive Visual Analytics
 ````
 ### Key Features
 
-📡 IoT Layer
+#### 📡 IoT Layer
 
 ESP32 microcontroller
 
@@ -35,7 +35,7 @@ Real-time MQTT publishing
 
 Auto-reconnection handling
 
-📊 Dashboard Layer (Dash + Plotly)
+#### 📊 Dashboard Layer (Dash + Plotly)
 
 Live-updating gauges (Temperature & Humidity)
 
@@ -66,17 +66,18 @@ test.mosquitto.org Public Broker
 
 ##### Software
 
-Python 3.x
+- Python 3.x
 
-Dash
+- Dash
 
-Plotly
+- Plotly
 
-Pandas
+- Pandas
 
-Paho-MQTT
+- Paho-MQTT
 
-Dash Bootstrap Components
+- Dash Bootstrap Components
+
 ----
 📊 Dashboard Preview
 
