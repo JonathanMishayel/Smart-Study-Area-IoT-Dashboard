@@ -110,6 +110,20 @@ Note: This project uses a public MQTT broker for demonstration purposes
 
 ----
 ### 📁 Project Structure
+```text
+Smart-Study-Area-Climate-Dashboard/
+│
+├── Arduino_IDE/                 
+│   └── (ESP32 MQTT publisher code)
+│
+├── live-dashboard.py            
+│
+├── requirements.txt            
+│
+├── Dashboard_UI_.png           
+│
+└── README.md
+````
 
 ----
 
